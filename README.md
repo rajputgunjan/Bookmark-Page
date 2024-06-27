@@ -12,7 +12,7 @@ This project is a simple Bookmark App that allows users to add, view, and delete
 - Add Bookmark: Users can add new bookmarks by providing a website name and URL.
 - View Bookmarks: All saved bookmarks are displayed with their favicons.
 - Delete Bookmark: Users can delete any bookmark.
-- Responsive Design: The layout is optimized for both desktop and mobile devices..
+- Responsive Design: The layout is optimized for both desktop and mobile devices.
 
 
 
